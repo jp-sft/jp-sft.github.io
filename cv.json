@@ -1,0 +1,178 @@
+{
+  "personal_details": {
+    "name": "Tazemda Pango Kevin Jessy",
+    "email": "jessypango@gmail.com",
+    "phone": "+216 98105441",
+    "linkedin": "https://www.linkedin.com/in/jessypango",
+    "github": "https://github.com/jp-sft",
+    "portfolio": "https://jessypango.com",
+    "profile_image": "img/profil.jpg"
+  },
+  "languages": [
+    { "language": "Français", "level": 5 },
+    { "language": "Anglais", "level": 3 },
+    { "language": "Arabe", "level": 2 }
+  ],
+  "interests": [
+    "Lecture sur les nouvelles technologies et l'innovation",
+    "Participation à des hackathons et des meetups tech",
+    "Sports : Football, Running, Gym"
+  ],
+  "summary": "Ingénieur en développement d'applications web et en intelligence artificielle avec une expérience solide en programmation, en gestion de bases de données et en cloud computing. Passionné par l'apprentissage continu et le développement de solutions innovantes, je cherche à rejoindre une équipe dynamique où je peux appliquer mes compétences techniques et contribuer à des projets impactants. Mes compétences en machine learning, deep learning, et développement web et mobile me permettent de mener à bien des projets de bout en bout.",
+  "experiences": [
+    {
+      "title": "Développeur d’application",
+      "company": "BRMTeck",
+      "location": "Tunis",
+      "period": "08/2023 - Présent",
+      "responsibilities": [
+        "Développement et maintenance d'applications web et d'IA.",
+        "Utilisation de Python, TensorFlow, et autres frameworks pour développer des modèles de machine learning.",
+        "Gestion de bases de données SQL et NoSQL.",
+        "Déploiement d'applications sur AWS et Google Cloud.",
+        "Collaboration avec des équipes multidisciplinaires pour atteindre les objectifs de projet."
+      ]
+    },
+    {
+      "title": "Développeur Odoo",
+      "company": "BRMTeck",
+      "location": "Tunis",
+      "period": "02/2022 - en cours",
+      "responsibilities": [
+        "Développement et personnalisation de modules Odoo pour répondre aux besoins des clients.",
+        "Intégration d'Odoo avec d'autres systèmes via API pour améliorer les flux de travail.",
+        "Résolution de bugs et optimisation des performances des modules existants.",
+        "Participation à l'analyse des besoins des clients et à la rédaction des spécifications techniques.",
+        "Formation et support aux utilisateurs finaux pour assurer une utilisation efficace des solutions Odoo."
+      ]
+    },
+    {
+      "title": "Développeur Web (Angular)",
+      "company": "BRMTeck",
+      "location": "Tunis",
+      "period": "2023 - en cours",
+      "responsibilities": [
+        "Développement de solutions web interactives et dynamiques avec Angular.",
+        "Implémentation de fonctionnalités front-end robustes et réactives.",
+        "Collaboration avec des clients pour comprendre leurs besoins et fournir des solutions adaptées."
+      ]
+    },
+    {
+      "title": "Développeur Mobile (Flutter)",
+      "company": "Projet Freelance",
+      "location": "",
+      "period": "2023 - en cours",
+      "responsibilities": [
+        "Développement d'une application mobile intégrée à Odoo.",
+        "Utilisation de Flutter pour créer des interfaces utilisateur attrayantes et performantes.",
+        "Gestion de projet et collaboration avec d'autres développeurs pour assurer une intégration fluide.",
+        "Lien vers le projet : https://github.com/jp-sft"
+      ]
+    }
+  ],
+  "academic_projects": [
+    {
+      "name": "Application de Ventes d'Articles de Seconde Main",
+      "technologies": [
+        "Python",
+        "Django",
+        "AWS S3",
+        "Redis",
+        "Heroku",
+        "PostgreSQL"
+      ],
+      "description": "Développement d'une plateforme en ligne pour les ventes d'articles de seconde main, intégrant des fonctionnalités d'upload d'images, de stockage sur AWS S3, et d'interaction en temps réel grâce à Redis. Déploiement sur Heroku."
+    },
+    {
+      "name": "Application de Gestion d'Étudiants",
+      "technologies": ["Spring Boot", "Thymeleaf", "MySQL"],
+      "description": "Conception et réalisation d'une application de gestion d'étudiants, permettant l'enregistrement, la mise à jour et la récupération d'informations essentielles. Utilisation de Spring Boot pour le développement et MySQL pour le stockage des données."
+    },
+    {
+      "name": "Application de Gestion de Vente et de Stock",
+      "technologies": [
+        "Angular",
+        "MySQL",
+        "Spring REST",
+        "Microservices",
+        "Python (Dashboard)"
+      ],
+      "description": "Création d'une application complète pour la gestion des ventes et du stock, comprenant des fonctionnalités d'interface utilisateur conviviale avec Angular et des microservices en utilisant Spring REST. Un tableau de bord dynamique a également été développé en Python."
+    },
+    {
+      "name": "Application Android de Gestion de Panne de Voie Ferrée",
+      "technologies": ["Android Studio", "Backendless"],
+      "description": "Développement d'une application Android pour la gestion en temps réel des pannes de voie ferrée. Utilisation de Backendless pour stocker et gérer les données, offrant une interface conviviale pour les utilisateurs finaux."
+    },
+    {
+      "name": "Analyse et Prédiction des Missions de SpaceX",
+      "technologies": ["Python (Data Science Libraries)"],
+      "description": "Utilisation de techniques de Data Science pour analyser les missions passées de SpaceX, identifier les facteurs de succès et d'échec, et développer des modèles de prédiction basés sur des données historiques."
+    },
+    {
+      "name": "Réalisation d'un DataMart",
+      "technologies": ["Power BI", "SQL Server", "SSMS"],
+      "description": "Création d'un DataMart pour centraliser et organiser les données provenant de différentes sources dans le but de faciliter l'analyse et la prise de décision."
+    }
+  ],
+  "certifications": [
+    "Deep Learning Specialization, Coursera (Deeplearning.AI), 2023",
+    "Machine Learning, Coursera (Andrew Ng), 2023",
+    "Data Science Professional Certificate, IBM & Coursera, 2023",
+    "Application Developer, Certiport, A Pearson VUE Business, 2022"
+  ],
+  "technical_skills": {
+    "Langages de Programmation": ["Python", "JavaScript", "TypeScript", "Dart"],
+    "Frameworks et Bibliothèques": [
+      "TensorFlow",
+      "PyTorch",
+      "Scikit-learn",
+      "Keras",
+      "Django",
+      "FastAPI",
+      "Pandas",
+      "NumPy",
+      "NLTK",
+      "spaCy"
+    ],
+    "AI Architecture": ["ChatGPT", "MistralAI"],
+    "Bases de Données": ["SQL", "NoSQL", "MongoDB", "Elasticsearch"],
+    "Cloud Computing": ["AWS", "Google Cloud", "Azure"],
+    "Outils DevOps": ["Docker", "Kubernetes", "Git"],
+    "Développement Web": ["HTML", "CSS", "Angular", "Node.js", "React"],
+    "Développement Mobile": ["Flutter", "Android Studio"],
+    "Gestion des Flux de Travail et Pipelines de Données": [
+      "Prefect",
+      "Apache Airflow"
+    ],
+    "OCR Tasks": ["[Compléter ici]"],
+    "Containerisation et Outils CI/CD": ["[Compléter ici]"],
+    "Tests Unitaires, TDD": ["[Compléter ici]"]
+  },
+  "personal_projects": [
+    {
+      "name": "[Nom du Projet]",
+      "technologies": ["[Technologies]"],
+      "description": "[Description du projet]"
+    },
+    {
+      "name": "[Nom du Projet]",
+      "technologies": ["[Technologies]"],
+      "description": "[Description du projet]"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ingénieur Informatique",
+      "year": "2023"
+    },
+    {
+      "degree": "Diplôme Préparatoire Math-Physique",
+      "year": "2020"
+    },
+    {
+      "degree": "Baccalauréat",
+      "year": "2017"
+    }
+  ]
+}
