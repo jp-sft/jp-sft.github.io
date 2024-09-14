@@ -1,0 +1,43 @@
+.academic-project {
+    margin: 0 0 5px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    word-break: break-word;
+    font-size: 10px;
+
+}
+.academic-project .name{
+    font-size: 12px;
+}
+
+.academic-project .material-symbols-outlined {
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.teck {
+    display: flex;
+    align-items: center;
+    margin-bottom: 2px;
+}
+
+.title {
+    font-weight: bold;
+}
+.title::after {
+    content: ": ";
+}
+
+.teck-content {
+    color: #444;
+    margin-left: 5px;
+}
+
+.desc {
+    display: block;
+}
+
+.teck-content {
+    color: #555;
+}
